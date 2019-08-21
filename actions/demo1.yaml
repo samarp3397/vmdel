@@ -1,5 +1,5 @@
 ---
-name: demo1.yaml
+name: "demo1.yaml"
 runner_type: "python-script"
 description: "Print message to standard output."
 enabled: true
