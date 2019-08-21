@@ -3,7 +3,7 @@ name: "demo1.yaml"
 runner_type: "python-script"
 description: "Print message to standard output."
 enabled: true
-entry_point: "demo2.py"
+entry_point: "demo1.py"
 parameters:
     message:
         type: "string"
